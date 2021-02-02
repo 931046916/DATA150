@@ -1,3 +1,3 @@
-#Informal Response
+# Informal Response
 
-##[Blumenstock Response 2/2]()
+## [Blumenstock Response 2/2]()
