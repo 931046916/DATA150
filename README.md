@@ -7,4 +7,4 @@
 
 ## Formal Response
 
-### 1. [Annotation]((https://serena-zheyiliu.github.io/DATA150_Serena/Annotation.html))
+### 1. [Annotation](https://serena-zheyiliu.github.io/DATA150_Serena/Annotation.html)
