@@ -11,10 +11,10 @@ According to Amartya Sen, development means granting freedom to people and remov
 ###
 
 ### Reference
-1. Xiaoxu Wu, Yongmei Lu, Sen Zhou, Lifan Chen, Bing Xu, Impact of climate change on human infectious diseases: Empirical evidence and human adaptation, Environment International, Volume 86, 2016, Pages 14-23, ISSN 0160-4120, https://doi.org/10.1016/j.envint.2015.09.007.  
+1. Lu Liang, Peng Gong, Climate change and human infectious diseases: A synthesis of research findings from global and spatio-temporal perspectives, Environment International, Volume 103, 2017, Pages 99-108, ISSN 0160-4120, https://doi.org/10.1016/j.envint.2017.03.011.  
 2. Sorichetta, A., Bird, T., Ruktanonchai, N. et al. Mapping internal connectivity through human migration in malaria endemic countries. Sci Data 3, 160066 (2016). https://doi.org/10.1038/sdata.2016.66.  
-4. Boutayeb A. (2010) The Impact of Infectious Diseases on the Development of Africa. In: Preedy V.R., Watson R.R. (eds) Handbook of Disease Burdens and Quality of Life Measures. Springer, New York, NY. https://doi.org/10.1007/978-0-387-78665-0_66
-5. Kraemer, M.U.G., Golding, N., Bisanzio, D. et al. Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings. Sci Rep 9, 5151 (2019). https://doi.org/10.1038/s41598-019-41192-3  
-6. Polonsky Jonathan A., Baidjoe Amrish, Kamvar Zhian N., etc. Whitworth Jimmy and Jombart Thibaut 2019Outbreak analytics: a developing data science for informing the response to emerging pathogensPhil. Trans. R. Soc. B3742018027620180276.(20 May 2019). https://doi.org/10.1098/rstb.2018.0276  
-7. Fenollar, F., & Mediannikov, O. (2018). Emerging infectious diseases in Africa in the 21st century. New microbes and new infections, 26, S10–S18. https://doi.org/10.1016/j.nmni.2018.09.004.  
-8. Judith Leo, Edith Luhanga, Kisangiri Michael, "Machine Learning Model for Imbalanced Cholera Dataset in Tanzania", The Scientific World Journal, vol. 2019, Article ID 9397578, 12 pages, 2019. https://doi.org/10.1155/2019/9397578.  
+3. Boutayeb A. (2010) The Impact of Infectious Diseases on the Development of Africa. In: Preedy V.R., Watson R.R. (eds) Handbook of Disease Burdens and Quality of Life Measures. Springer, New York, NY. https://doi.org/10.1007/978-0-387-78665-0_66
+4. Kraemer, M.U.G., Golding, N., Bisanzio, D. et al. Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings. Sci Rep 9, 5151 (2019). https://doi.org/10.1038/s41598-019-41192-3  
+5. Polonsky Jonathan A., Baidjoe Amrish, Kamvar Zhian N., etc. Whitworth Jimmy and Jombart Thibaut 2019Outbreak analytics: a developing data science for informing the response to emerging pathogensPhil. Trans. R. Soc. B3742018027620180276.(20 May 2019). https://doi.org/10.1098/rstb.2018.0276  
+6. Fenollar, F., & Mediannikov, O. (2018). Emerging infectious diseases in Africa in the 21st century. New microbes and new infections, 26, S10–S18. https://doi.org/10.1016/j.nmni.2018.09.004.  
+7. Judith Leo, Edith Luhanga, Kisangiri Michael, "Machine Learning Model for Imbalanced Cholera Dataset in Tanzania", The Scientific World Journal, vol. 2019, Article ID 9397578, 12 pages, 2019. https://doi.org/10.1155/2019/9397578.  
