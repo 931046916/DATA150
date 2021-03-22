@@ -8,4 +8,6 @@
 
 ## Formal Response
 
-### 1. [Annotation](https://serena-zheyiliu.github.io/DATA150_Serena/Annotation.html)
+### 1. [Annotated Bibliography](https://serena-zheyiliu.github.io/DATA150_Serena/Annotation.html)
+
+### 2. [Literature Review](https://serena-zheyiliu.github.io/DATA150_Serena/LiteratureReview.html)
