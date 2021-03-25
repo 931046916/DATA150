@@ -11,3 +11,6 @@
 ### 1. [Annotated Bibliography](https://serena-zheyiliu.github.io/DATA150_Serena/Annotation.html)
 
 ### 2. [Literature Review](https://serena-zheyiliu.github.io/DATA150_Serena/LiteratureReview.html)
+
+## Extra credit Opportunity
+### 1. [Response](https://serena-zheyiliu.github.io/DATA150_Serena/ExtraCreditOpportunity.html)
