@@ -1,2 +1,0 @@
-## Methodology Paper
-### Introduction
