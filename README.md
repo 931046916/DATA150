@@ -13,7 +13,7 @@
 
 ### 2. [Literature Review](https://serena-zheyiliu.github.io/DATA150_Serena/LiteratureReview.html)
 
-### 3. [MethodologyPaper](https://serena-zheyiliu.github.io/DATA150_Serena/MethodologyPaper.html)
+### 3. [Methodology Paper](https://serena-zheyiliu.github.io/DATA150_Serena/MethodologyPaper.html)
 
 ## Extra credit Opportunity
 ### 1. [Response](https://serena-zheyiliu.github.io/DATA150_Serena/ExtraCreditOpportunity.html)
