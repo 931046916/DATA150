@@ -21,6 +21,7 @@ By converting these two equations into a linear regression form to calculate the
 <img width="512" alt="截屏2021-04-24 下午11 06 10" src="https://user-images.githubusercontent.com/78099480/115963394-aab73700-a551-11eb-9628-473066bdc79a.png">
  
 For any district i, each Xij is one of k district-specific covariates that combines how many cases there are in all the other districts weighted by a mobility matrix. These district specific covariates are re-calculated at each time step. βt,i terms were generally fitted entering the covariates linearly, and all the model fitting was conducted in R. The analysis found that generalized human motion models derived from data outside the affected geographic area can explain a considerable part of the observed EVD outbreak dynamics. The following figure shows prediction with 95% confidence level. (Kraemer, M.U.G., Golding, N., Bisanzio, D. et al. 2019).   
+
 <img width="1257" alt="截屏2021-04-24 下午1 14 58" src="https://user-images.githubusercontent.com/78099480/115963426-cfabaa00-a551-11eb-9c70-8eb0dd3513ff.png">
 <img width="1258" alt="截屏2021-04-24 下午1 15 55" src="https://user-images.githubusercontent.com/78099480/115963429-d1756d80-a551-11eb-8875-5c74dfc053b4.png">
 
