@@ -15,5 +15,9 @@
 
 ### 3. [Methodology Paper](https://serena-zheyiliu.github.io/DATA150_Serena/MethodologyPaper.html)
 
+### 4. [Presentation Abstract](https://serena-zheyiliu.github.io/DATA150_Serena/Abstract.html)
+
+### 5. [Research Proposal](https://serena-zheyiliu.github.io/DATA150_Serena/ResearchProposal.html)
+
 ## Extra credit Opportunity
 ### 1. [Response](https://serena-zheyiliu.github.io/DATA150_Serena/ExtraCreditOpportunity.html)
